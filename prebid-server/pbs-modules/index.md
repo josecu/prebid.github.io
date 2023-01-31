@@ -24,6 +24,7 @@ Only the Java version of PBS currently supports the module infrastructure.
 | Module              | Description  | PBS-Go | PBS-Java |
 |---------------------+--------------+--------+----------|
 | [**ORTB2 Blocking**](/prebid-server/pbs-modules/ortb2-blocking.html) | Support bidders that aren't full-service SSPs. | | <img src="/assets/images/icons/icon-check-green.png" width="30"> |
+| [**ArcSpan Contextual APP**](/prebid-server/pbs-modules/arcspan-contextualapp.html) | Surfaces contextual classification signals in the bid request to enhance the addressability of ad impressions and increase buyer demand. | <img src="/assets/images/icons/icon-check-green.png" width="30"> | Coming soon |
 
 ## Installing a PBS Module
 
